@@ -1,0 +1,15 @@
+/Users/aleksandr/Codebase/c#/design-patterns/Proxy/bin/Debug/net5.0/Proxy.deps.json
+/Users/aleksandr/Codebase/c#/design-patterns/Proxy/bin/Debug/net5.0/Proxy.runtimeconfig.json
+/Users/aleksandr/Codebase/c#/design-patterns/Proxy/bin/Debug/net5.0/Proxy.runtimeconfig.dev.json
+/Users/aleksandr/Codebase/c#/design-patterns/Proxy/bin/Debug/net5.0/Proxy.dll
+/Users/aleksandr/Codebase/c#/design-patterns/Proxy/bin/Debug/net5.0/ref/Proxy.dll
+/Users/aleksandr/Codebase/c#/design-patterns/Proxy/bin/Debug/net5.0/Proxy.pdb
+/Users/aleksandr/Codebase/c#/design-patterns/Proxy/obj/Debug/net5.0/Proxy.csprojAssemblyReference.cache
+/Users/aleksandr/Codebase/c#/design-patterns/Proxy/obj/Debug/net5.0/Proxy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandr/Codebase/c#/design-patterns/Proxy/obj/Debug/net5.0/Proxy.AssemblyInfoInputs.cache
+/Users/aleksandr/Codebase/c#/design-patterns/Proxy/obj/Debug/net5.0/Proxy.AssemblyInfo.cs
+/Users/aleksandr/Codebase/c#/design-patterns/Proxy/obj/Debug/net5.0/Proxy.csproj.CoreCompileInputs.cache
+/Users/aleksandr/Codebase/c#/design-patterns/Proxy/obj/Debug/net5.0/Proxy.dll
+/Users/aleksandr/Codebase/c#/design-patterns/Proxy/obj/Debug/net5.0/ref/Proxy.dll
+/Users/aleksandr/Codebase/c#/design-patterns/Proxy/obj/Debug/net5.0/Proxy.pdb
+/Users/aleksandr/Codebase/c#/design-patterns/Proxy/obj/Debug/net5.0/Proxy.genruntimeconfig.cache

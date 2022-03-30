@@ -1,0 +1,18 @@
+using FactoryMethod.Components;
+using FactoryMethod.Components.Custom;
+
+namespace FactoryMethod
+{
+    public class BombedMazeGame : MazeGame
+    {
+        public override Wall MakeWall()
+        {
+            return new BombedWall();
+        }
+
+        public override Room MakeRoom(int roomNumber)
+        {
+            return new RoomWithABomb(roomNumber);
+        }
+    }
+}

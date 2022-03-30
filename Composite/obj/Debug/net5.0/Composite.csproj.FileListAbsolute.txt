@@ -1,0 +1,15 @@
+/Users/aleksandr/Codebase/c#/design-patterns/Composite/obj/Debug/net5.0/Composite.csprojAssemblyReference.cache
+/Users/aleksandr/Codebase/c#/design-patterns/Composite/obj/Debug/net5.0/Composite.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandr/Codebase/c#/design-patterns/Composite/obj/Debug/net5.0/Composite.AssemblyInfoInputs.cache
+/Users/aleksandr/Codebase/c#/design-patterns/Composite/obj/Debug/net5.0/Composite.AssemblyInfo.cs
+/Users/aleksandr/Codebase/c#/design-patterns/Composite/obj/Debug/net5.0/Composite.csproj.CoreCompileInputs.cache
+/Users/aleksandr/Codebase/c#/design-patterns/Composite/bin/Debug/net5.0/Composite.deps.json
+/Users/aleksandr/Codebase/c#/design-patterns/Composite/bin/Debug/net5.0/Composite.runtimeconfig.json
+/Users/aleksandr/Codebase/c#/design-patterns/Composite/bin/Debug/net5.0/Composite.runtimeconfig.dev.json
+/Users/aleksandr/Codebase/c#/design-patterns/Composite/bin/Debug/net5.0/Composite.dll
+/Users/aleksandr/Codebase/c#/design-patterns/Composite/bin/Debug/net5.0/ref/Composite.dll
+/Users/aleksandr/Codebase/c#/design-patterns/Composite/bin/Debug/net5.0/Composite.pdb
+/Users/aleksandr/Codebase/c#/design-patterns/Composite/obj/Debug/net5.0/Composite.dll
+/Users/aleksandr/Codebase/c#/design-patterns/Composite/obj/Debug/net5.0/ref/Composite.dll
+/Users/aleksandr/Codebase/c#/design-patterns/Composite/obj/Debug/net5.0/Composite.pdb
+/Users/aleksandr/Codebase/c#/design-patterns/Composite/obj/Debug/net5.0/Composite.genruntimeconfig.cache

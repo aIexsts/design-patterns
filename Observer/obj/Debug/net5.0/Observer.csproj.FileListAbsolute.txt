@@ -1,0 +1,15 @@
+/Users/aleksandr/Codebase/c#/design-patterns/Observer/obj/Debug/net5.0/Observer.csprojAssemblyReference.cache
+/Users/aleksandr/Codebase/c#/design-patterns/Observer/obj/Debug/net5.0/Observer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandr/Codebase/c#/design-patterns/Observer/obj/Debug/net5.0/Observer.AssemblyInfoInputs.cache
+/Users/aleksandr/Codebase/c#/design-patterns/Observer/obj/Debug/net5.0/Observer.AssemblyInfo.cs
+/Users/aleksandr/Codebase/c#/design-patterns/Observer/obj/Debug/net5.0/Observer.csproj.CoreCompileInputs.cache
+/Users/aleksandr/Codebase/c#/design-patterns/Observer/bin/Debug/net5.0/Observer.deps.json
+/Users/aleksandr/Codebase/c#/design-patterns/Observer/bin/Debug/net5.0/Observer.runtimeconfig.json
+/Users/aleksandr/Codebase/c#/design-patterns/Observer/bin/Debug/net5.0/Observer.runtimeconfig.dev.json
+/Users/aleksandr/Codebase/c#/design-patterns/Observer/bin/Debug/net5.0/Observer.dll
+/Users/aleksandr/Codebase/c#/design-patterns/Observer/bin/Debug/net5.0/ref/Observer.dll
+/Users/aleksandr/Codebase/c#/design-patterns/Observer/bin/Debug/net5.0/Observer.pdb
+/Users/aleksandr/Codebase/c#/design-patterns/Observer/obj/Debug/net5.0/Observer.dll
+/Users/aleksandr/Codebase/c#/design-patterns/Observer/obj/Debug/net5.0/ref/Observer.dll
+/Users/aleksandr/Codebase/c#/design-patterns/Observer/obj/Debug/net5.0/Observer.pdb
+/Users/aleksandr/Codebase/c#/design-patterns/Observer/obj/Debug/net5.0/Observer.genruntimeconfig.cache

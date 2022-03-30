@@ -1,0 +1,15 @@
+/Users/aleksandr/Codebase/c#/design-patterns/Bridge/bin/Debug/net5.0/Bridge.deps.json
+/Users/aleksandr/Codebase/c#/design-patterns/Bridge/bin/Debug/net5.0/Bridge.runtimeconfig.json
+/Users/aleksandr/Codebase/c#/design-patterns/Bridge/bin/Debug/net5.0/Bridge.runtimeconfig.dev.json
+/Users/aleksandr/Codebase/c#/design-patterns/Bridge/bin/Debug/net5.0/Bridge.dll
+/Users/aleksandr/Codebase/c#/design-patterns/Bridge/bin/Debug/net5.0/ref/Bridge.dll
+/Users/aleksandr/Codebase/c#/design-patterns/Bridge/bin/Debug/net5.0/Bridge.pdb
+/Users/aleksandr/Codebase/c#/design-patterns/Bridge/obj/Debug/net5.0/Bridge.csprojAssemblyReference.cache
+/Users/aleksandr/Codebase/c#/design-patterns/Bridge/obj/Debug/net5.0/Bridge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandr/Codebase/c#/design-patterns/Bridge/obj/Debug/net5.0/Bridge.AssemblyInfoInputs.cache
+/Users/aleksandr/Codebase/c#/design-patterns/Bridge/obj/Debug/net5.0/Bridge.AssemblyInfo.cs
+/Users/aleksandr/Codebase/c#/design-patterns/Bridge/obj/Debug/net5.0/Bridge.csproj.CoreCompileInputs.cache
+/Users/aleksandr/Codebase/c#/design-patterns/Bridge/obj/Debug/net5.0/Bridge.dll
+/Users/aleksandr/Codebase/c#/design-patterns/Bridge/obj/Debug/net5.0/ref/Bridge.dll
+/Users/aleksandr/Codebase/c#/design-patterns/Bridge/obj/Debug/net5.0/Bridge.pdb
+/Users/aleksandr/Codebase/c#/design-patterns/Bridge/obj/Debug/net5.0/Bridge.genruntimeconfig.cache

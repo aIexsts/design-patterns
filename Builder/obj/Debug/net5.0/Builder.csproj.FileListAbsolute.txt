@@ -1,0 +1,15 @@
+/Users/aleksandr/Codebase/c#/design-patterns/Builder/bin/Debug/net5.0/Builder.deps.json
+/Users/aleksandr/Codebase/c#/design-patterns/Builder/bin/Debug/net5.0/Builder.runtimeconfig.json
+/Users/aleksandr/Codebase/c#/design-patterns/Builder/bin/Debug/net5.0/Builder.runtimeconfig.dev.json
+/Users/aleksandr/Codebase/c#/design-patterns/Builder/bin/Debug/net5.0/Builder.dll
+/Users/aleksandr/Codebase/c#/design-patterns/Builder/bin/Debug/net5.0/ref/Builder.dll
+/Users/aleksandr/Codebase/c#/design-patterns/Builder/bin/Debug/net5.0/Builder.pdb
+/Users/aleksandr/Codebase/c#/design-patterns/Builder/obj/Debug/net5.0/Builder.csprojAssemblyReference.cache
+/Users/aleksandr/Codebase/c#/design-patterns/Builder/obj/Debug/net5.0/Builder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandr/Codebase/c#/design-patterns/Builder/obj/Debug/net5.0/Builder.AssemblyInfoInputs.cache
+/Users/aleksandr/Codebase/c#/design-patterns/Builder/obj/Debug/net5.0/Builder.AssemblyInfo.cs
+/Users/aleksandr/Codebase/c#/design-patterns/Builder/obj/Debug/net5.0/Builder.csproj.CoreCompileInputs.cache
+/Users/aleksandr/Codebase/c#/design-patterns/Builder/obj/Debug/net5.0/Builder.dll
+/Users/aleksandr/Codebase/c#/design-patterns/Builder/obj/Debug/net5.0/ref/Builder.dll
+/Users/aleksandr/Codebase/c#/design-patterns/Builder/obj/Debug/net5.0/Builder.pdb
+/Users/aleksandr/Codebase/c#/design-patterns/Builder/obj/Debug/net5.0/Builder.genruntimeconfig.cache

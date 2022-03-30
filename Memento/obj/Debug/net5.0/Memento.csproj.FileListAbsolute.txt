@@ -1,0 +1,15 @@
+/Users/aleksandr/Codebase/c#/design-patterns/Memento/bin/Debug/net5.0/Memento.deps.json
+/Users/aleksandr/Codebase/c#/design-patterns/Memento/bin/Debug/net5.0/Memento.runtimeconfig.json
+/Users/aleksandr/Codebase/c#/design-patterns/Memento/bin/Debug/net5.0/Memento.runtimeconfig.dev.json
+/Users/aleksandr/Codebase/c#/design-patterns/Memento/bin/Debug/net5.0/Memento.dll
+/Users/aleksandr/Codebase/c#/design-patterns/Memento/bin/Debug/net5.0/ref/Memento.dll
+/Users/aleksandr/Codebase/c#/design-patterns/Memento/bin/Debug/net5.0/Memento.pdb
+/Users/aleksandr/Codebase/c#/design-patterns/Memento/obj/Debug/net5.0/Memento.csprojAssemblyReference.cache
+/Users/aleksandr/Codebase/c#/design-patterns/Memento/obj/Debug/net5.0/Memento.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandr/Codebase/c#/design-patterns/Memento/obj/Debug/net5.0/Memento.AssemblyInfoInputs.cache
+/Users/aleksandr/Codebase/c#/design-patterns/Memento/obj/Debug/net5.0/Memento.AssemblyInfo.cs
+/Users/aleksandr/Codebase/c#/design-patterns/Memento/obj/Debug/net5.0/Memento.csproj.CoreCompileInputs.cache
+/Users/aleksandr/Codebase/c#/design-patterns/Memento/obj/Debug/net5.0/Memento.dll
+/Users/aleksandr/Codebase/c#/design-patterns/Memento/obj/Debug/net5.0/ref/Memento.dll
+/Users/aleksandr/Codebase/c#/design-patterns/Memento/obj/Debug/net5.0/Memento.pdb
+/Users/aleksandr/Codebase/c#/design-patterns/Memento/obj/Debug/net5.0/Memento.genruntimeconfig.cache

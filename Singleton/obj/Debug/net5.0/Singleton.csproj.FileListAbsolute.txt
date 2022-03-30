@@ -1,0 +1,15 @@
+/Users/aleksandr/Codebase/c#/design-patterns/Singleton/bin/Debug/net5.0/Singleton.deps.json
+/Users/aleksandr/Codebase/c#/design-patterns/Singleton/bin/Debug/net5.0/Singleton.runtimeconfig.json
+/Users/aleksandr/Codebase/c#/design-patterns/Singleton/bin/Debug/net5.0/Singleton.runtimeconfig.dev.json
+/Users/aleksandr/Codebase/c#/design-patterns/Singleton/bin/Debug/net5.0/Singleton.dll
+/Users/aleksandr/Codebase/c#/design-patterns/Singleton/bin/Debug/net5.0/ref/Singleton.dll
+/Users/aleksandr/Codebase/c#/design-patterns/Singleton/bin/Debug/net5.0/Singleton.pdb
+/Users/aleksandr/Codebase/c#/design-patterns/Singleton/obj/Debug/net5.0/Singleton.csprojAssemblyReference.cache
+/Users/aleksandr/Codebase/c#/design-patterns/Singleton/obj/Debug/net5.0/Singleton.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandr/Codebase/c#/design-patterns/Singleton/obj/Debug/net5.0/Singleton.AssemblyInfoInputs.cache
+/Users/aleksandr/Codebase/c#/design-patterns/Singleton/obj/Debug/net5.0/Singleton.AssemblyInfo.cs
+/Users/aleksandr/Codebase/c#/design-patterns/Singleton/obj/Debug/net5.0/Singleton.csproj.CoreCompileInputs.cache
+/Users/aleksandr/Codebase/c#/design-patterns/Singleton/obj/Debug/net5.0/Singleton.dll
+/Users/aleksandr/Codebase/c#/design-patterns/Singleton/obj/Debug/net5.0/ref/Singleton.dll
+/Users/aleksandr/Codebase/c#/design-patterns/Singleton/obj/Debug/net5.0/Singleton.pdb
+/Users/aleksandr/Codebase/c#/design-patterns/Singleton/obj/Debug/net5.0/Singleton.genruntimeconfig.cache

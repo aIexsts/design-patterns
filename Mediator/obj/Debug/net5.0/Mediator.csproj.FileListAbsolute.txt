@@ -1,0 +1,15 @@
+/Users/aleksandr/Codebase/c#/design-patterns/Mediator/bin/Debug/net5.0/Mediator.deps.json
+/Users/aleksandr/Codebase/c#/design-patterns/Mediator/bin/Debug/net5.0/Mediator.runtimeconfig.json
+/Users/aleksandr/Codebase/c#/design-patterns/Mediator/bin/Debug/net5.0/Mediator.runtimeconfig.dev.json
+/Users/aleksandr/Codebase/c#/design-patterns/Mediator/bin/Debug/net5.0/Mediator.dll
+/Users/aleksandr/Codebase/c#/design-patterns/Mediator/bin/Debug/net5.0/ref/Mediator.dll
+/Users/aleksandr/Codebase/c#/design-patterns/Mediator/bin/Debug/net5.0/Mediator.pdb
+/Users/aleksandr/Codebase/c#/design-patterns/Mediator/obj/Debug/net5.0/Mediator.csprojAssemblyReference.cache
+/Users/aleksandr/Codebase/c#/design-patterns/Mediator/obj/Debug/net5.0/Mediator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandr/Codebase/c#/design-patterns/Mediator/obj/Debug/net5.0/Mediator.AssemblyInfoInputs.cache
+/Users/aleksandr/Codebase/c#/design-patterns/Mediator/obj/Debug/net5.0/Mediator.AssemblyInfo.cs
+/Users/aleksandr/Codebase/c#/design-patterns/Mediator/obj/Debug/net5.0/Mediator.csproj.CoreCompileInputs.cache
+/Users/aleksandr/Codebase/c#/design-patterns/Mediator/obj/Debug/net5.0/Mediator.dll
+/Users/aleksandr/Codebase/c#/design-patterns/Mediator/obj/Debug/net5.0/ref/Mediator.dll
+/Users/aleksandr/Codebase/c#/design-patterns/Mediator/obj/Debug/net5.0/Mediator.pdb
+/Users/aleksandr/Codebase/c#/design-patterns/Mediator/obj/Debug/net5.0/Mediator.genruntimeconfig.cache

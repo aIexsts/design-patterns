@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FZJpPO4GjLeWR82PET342zLkRgWmlVTDRXYJmqGBKx1FsbdK6cCJTsbV31bCG5/gVbKeMEloPV18IsavGa1G6A==",
+  "success": true,
+  "projectFilePath": "/Users/aleksandr/Codebase/c#/design-patterns/FlyWeight/FlyWeight.csproj",
+  "expectedPackageFiles": [
+    "/Users/aleksandr/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/Users/aleksandr/Codebase/c#/design-patterns/Visitor/bin/Debug/net5.0/Visitor.deps.json
+/Users/aleksandr/Codebase/c#/design-patterns/Visitor/bin/Debug/net5.0/Visitor.runtimeconfig.json
+/Users/aleksandr/Codebase/c#/design-patterns/Visitor/bin/Debug/net5.0/Visitor.runtimeconfig.dev.json
+/Users/aleksandr/Codebase/c#/design-patterns/Visitor/bin/Debug/net5.0/Visitor.dll
+/Users/aleksandr/Codebase/c#/design-patterns/Visitor/bin/Debug/net5.0/ref/Visitor.dll
+/Users/aleksandr/Codebase/c#/design-patterns/Visitor/bin/Debug/net5.0/Visitor.pdb
+/Users/aleksandr/Codebase/c#/design-patterns/Visitor/obj/Debug/net5.0/Visitor.csprojAssemblyReference.cache
+/Users/aleksandr/Codebase/c#/design-patterns/Visitor/obj/Debug/net5.0/Visitor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandr/Codebase/c#/design-patterns/Visitor/obj/Debug/net5.0/Visitor.AssemblyInfoInputs.cache
+/Users/aleksandr/Codebase/c#/design-patterns/Visitor/obj/Debug/net5.0/Visitor.AssemblyInfo.cs
+/Users/aleksandr/Codebase/c#/design-patterns/Visitor/obj/Debug/net5.0/Visitor.csproj.CoreCompileInputs.cache
+/Users/aleksandr/Codebase/c#/design-patterns/Visitor/obj/Debug/net5.0/Visitor.dll
+/Users/aleksandr/Codebase/c#/design-patterns/Visitor/obj/Debug/net5.0/ref/Visitor.dll
+/Users/aleksandr/Codebase/c#/design-patterns/Visitor/obj/Debug/net5.0/Visitor.pdb
+/Users/aleksandr/Codebase/c#/design-patterns/Visitor/obj/Debug/net5.0/Visitor.genruntimeconfig.cache

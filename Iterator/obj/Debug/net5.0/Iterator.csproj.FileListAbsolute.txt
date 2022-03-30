@@ -1,0 +1,15 @@
+/Users/aleksandr/Codebase/c#/design-patterns/Iterator/bin/Debug/net5.0/Iterator.deps.json
+/Users/aleksandr/Codebase/c#/design-patterns/Iterator/bin/Debug/net5.0/Iterator.runtimeconfig.json
+/Users/aleksandr/Codebase/c#/design-patterns/Iterator/bin/Debug/net5.0/Iterator.runtimeconfig.dev.json
+/Users/aleksandr/Codebase/c#/design-patterns/Iterator/bin/Debug/net5.0/Iterator.dll
+/Users/aleksandr/Codebase/c#/design-patterns/Iterator/bin/Debug/net5.0/ref/Iterator.dll
+/Users/aleksandr/Codebase/c#/design-patterns/Iterator/bin/Debug/net5.0/Iterator.pdb
+/Users/aleksandr/Codebase/c#/design-patterns/Iterator/obj/Debug/net5.0/Iterator.csprojAssemblyReference.cache
+/Users/aleksandr/Codebase/c#/design-patterns/Iterator/obj/Debug/net5.0/Iterator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandr/Codebase/c#/design-patterns/Iterator/obj/Debug/net5.0/Iterator.AssemblyInfoInputs.cache
+/Users/aleksandr/Codebase/c#/design-patterns/Iterator/obj/Debug/net5.0/Iterator.AssemblyInfo.cs
+/Users/aleksandr/Codebase/c#/design-patterns/Iterator/obj/Debug/net5.0/Iterator.csproj.CoreCompileInputs.cache
+/Users/aleksandr/Codebase/c#/design-patterns/Iterator/obj/Debug/net5.0/Iterator.dll
+/Users/aleksandr/Codebase/c#/design-patterns/Iterator/obj/Debug/net5.0/ref/Iterator.dll
+/Users/aleksandr/Codebase/c#/design-patterns/Iterator/obj/Debug/net5.0/Iterator.pdb
+/Users/aleksandr/Codebase/c#/design-patterns/Iterator/obj/Debug/net5.0/Iterator.genruntimeconfig.cache
